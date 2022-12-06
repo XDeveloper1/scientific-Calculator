@@ -114,3 +114,6 @@ while y=="Yes" or y=="YES" or y=="yes":
     y=input("Do you want to operate again \"yes\" or \"no\"? ")
     print("______________________________________________________________________________")
 print("------------------Thank You for using Our Scientific Calculator-------------------")
+
+#this is simple sciebtific calculator
+
