@@ -13,7 +13,7 @@ print("9.COSINE")
 print("10.TANGENT")
 print("11.DEGREE TO RADIAN")
 print("12.RADIAN TO DEGREE")
-print("******************************************************")
+print("*****************************************************")
 z=int(input("ENTER NUMBERS FROM 1 TO 12 TO PERFORM OPERATIONS: "))
 y="yes"
 pi=22/7
